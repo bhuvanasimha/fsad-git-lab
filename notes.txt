@@ -1,2 +1,4 @@
-This is Full Stack Skill Experiment 1
+Full Stack Skill Experiment 1
 Git Version Control
+This file contains notes about Git.
+Feature update branch changes added.
