@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Full Stack Git Experiment");
+        System.out.println("Hello Git Experiment");
+        System.out.println("Bug fixed in this version");
     }
 }
